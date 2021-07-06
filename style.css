@@ -128,7 +128,7 @@ body{
 }
 .card{
     background-color: white;
-    padding: 25px 25px 250px 25px;
+    padding: 25px 25px 260px 25px;
     border-radius: 45px;
     height: 377px;
     width: 528px;
@@ -150,7 +150,7 @@ body{
     font-size: 24px;
     font-weight: 400;
     line-height: 40px;
-    margin: 15px 10px 10px 10px;
+    margin: 15px 10px 15px 10px;
 }
 #four{
     margin: 0px 150px 100px 150px;
