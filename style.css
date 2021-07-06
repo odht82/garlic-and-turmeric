@@ -164,9 +164,10 @@ body{
     align-items: center;
     width: 1239px;
     height: 226px;
+    padding: 0px 200px 0px 200px;
 }
 .st{
-    margin: 50px 150px 50px 150px;
+    margin: 50px 150px 50px 50px;
 }
 .st h1{
     font-size: 58px;
